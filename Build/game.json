@@ -1,0 +1,17 @@
+{
+"companyName": "KanciastyStudio",
+"productName": "AirconsoleTest",
+"productVersion": "1.0",
+"dataUrl": "TotallyNewBuildForWWW.data.unityweb",
+"asmCodeUrl": "TotallyNewBuildForWWW.asm.code.unityweb",
+"asmMemoryUrl": "TotallyNewBuildForWWW.asm.memory.unityweb",
+"asmFrameworkUrl": "TotallyNewBuildForWWW.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
